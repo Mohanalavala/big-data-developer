@@ -10,4 +10,4 @@ My future plans are to obtain a job through which I can get recognition as a ful
 - [LinkedIn](https://www.linkedin.com/in/mohan-alavala-622776166/)
 - [GitHub](https://github.com/Mohanalavala)
 ## References
-![quote]()
+![quote](https://github.com/Mohanalavala/big-data-developer/blob/main/quote-success-is-when-your-signature-becomes-an-autograph-abdul-kalam-86-28-86.jpg)
